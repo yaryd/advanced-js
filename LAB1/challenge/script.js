@@ -29,15 +29,15 @@ let shoeDiscount = 44.89;
 // 6. Print out the three siblings' names. "The three siblings are __, __, and ___."
 console.log("The three siblings are" + + " , " + + " ,and" + + ".");
 // 7. Use console.log() and a built-in method to count how many characters are in Ricardo's name.
-
+console.log()
 // 8. Use console.log() and a built-in method to print out the string "RICARDO MONTOYA DE LA ROSA RAMIREZ"
-
+console.log();
 // 9. Use console.log() and a built-in method to print out the string "ricardo montoya de la rosa ramirez"
-
+console.log();
 // 10. Use console.log() and a built-in method to print out Ricardo's name, but with all the instances of the letter a removed or deleted.
-
+console.log();
 // 11. Use console.log() and a built-in method to print out "De La Rosa"
-
+console.log();
 // Medium Challenges
 
 // 12. Rewrite these function as an arrow function.
