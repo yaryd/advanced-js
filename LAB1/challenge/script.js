@@ -16,6 +16,7 @@ let shoes = 89.78;
 d
 
 // 1. If divided evenly, how much would each sibling get for the week?
+//DONE
 console.log(129 / 3);
 // 2. How many games can Jordan buy with their cut?
 2
@@ -27,7 +28,8 @@ let shoeDiscount = 44.89;
 // 5. How many more games can they buy if they put their money together compared to if they had bought games on their own?
 
 // 6. Print out the three siblings' names. "The three siblings are __, __, and ___."
-console.log("The three siblings are" + + " , " + + " ,and" + + ".");
+//DONE
+console.log(`The three siblings are ${sibling1}, ${sibling2}, and ${sibling3}`)
 // 7. Use console.log() and a built-in method to count how many characters are in Ricardo's name.
 console.log()
 // 8. Use console.log() and a built-in method to print out the string "RICARDO MONTOYA DE LA ROSA RAMIREZ"
