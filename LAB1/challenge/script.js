@@ -18,24 +18,30 @@ d
 // 1. If divided evenly, how much would each sibling get for the week?
 //DONE
 console.log(129 / 3);
+ 
 // 2. How many games can Jordan buy with their cut?
 2
+
 // 3. The cost of games just went up by a dollar and shoes are on sale at 50% (half) off. Change the variables to their new prices.
+//DONE
 let gameNew = 16.99;
 let shoeDiscount = 44.89;
+
 // 4. Quinn and Ricardo are twins. If they put their money together, how many on sale shoes can they buy in a month (4 weeks)?
 
 // 5. How many more games can they buy if they put their money together compared to if they had bought games on their own?
 
+// 6-9 DONE
 // 6. Print out the three siblings' names. "The three siblings are __, __, and ___."
-//DONE
-console.log(`The three siblings are ${sibling1}, ${sibling2}, and ${sibling3}`)
+console.log(`The three siblings are ${sibling1}, ${sibling2}, and ${sibling3}`);
 // 7. Use console.log() and a built-in method to count how many characters are in Ricardo's name.
-console.log()
+console.log(sibling3.length);
 // 8. Use console.log() and a built-in method to print out the string "RICARDO MONTOYA DE LA ROSA RAMIREZ"
-console.log();
+console.log(sibling3.toUpperCase());
 // 9. Use console.log() and a built-in method to print out the string "ricardo montoya de la rosa ramirez"
-console.log();
+console.log(sibling3.toLowerCase());
+
+
 // 10. Use console.log() and a built-in method to print out Ricardo's name, but with all the instances of the letter a removed or deleted.
 console.log();
 // 11. Use console.log() and a built-in method to print out "De La Rosa"
